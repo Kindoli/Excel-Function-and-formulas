@@ -3,7 +3,7 @@
 
 Unlock the full power of Microsoft Excel with this comprehensive guide to essential functions and formulas! Whether you're a student, professional, or data enthusiast, this video will help you learn how to:
 
--- ✅ Use powerful functions like VLOOKUP, INDEX + MATCH, IF, SUMIFS, TEXT, and more
+- ✅ Use powerful functions like VLOOKUP, INDEX + MATCH, IF, SUMIFS, TEXT, and more
 
 -- 📊 Automate calculations and clean your data
 
