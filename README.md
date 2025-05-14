@@ -5,9 +5,9 @@ Unlock the full power of Microsoft Excel with this comprehensive guide to essent
 
 - ✅ Use powerful functions like VLOOKUP, INDEX + MATCH, IF, SUMIFS, TEXT, and more
 
--- 📊 Automate calculations and clean your data
+- 📊 Automate calculations and clean your data
 
--- 🚀 Boost your productivity and analysis speed
+- 🚀 Boost your productivity and analysis speed
 
 ## 👨‍🏫 Ideal for:
 
